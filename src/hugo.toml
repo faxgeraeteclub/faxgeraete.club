@@ -1,0 +1,5 @@
+baseURL = 'https://faxgeraete.club/'
+languageCode = 'de-de'
+title = 'Faxgeräteclub'
+theme = 'faxgeraeteclub'
+relativeURLs = true
